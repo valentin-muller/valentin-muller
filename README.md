@@ -1,3 +1,2 @@
-# Hi!
 
-## I'm Valentin, welcome to my GitHub Page.
+![Alt Text](https://media.giphy.com/media/VhLTZwlRW0q35BG1vn/source.gif)

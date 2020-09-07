@@ -8,7 +8,7 @@
 
 👨🏽‍💻 Building: [Zoom-clone][Zoom-clone] <br />
 
-⚙️ Learning: 🔥Firebase <br />
+🧠 Learning: 🔥Firebase <br />
 
 
 

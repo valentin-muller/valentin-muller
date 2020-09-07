@@ -1,11 +1,12 @@
 ### Hi there, I'm [Valentin!](https://www.linkedin.com/in/valentinmull/) 👋
 
+I am currently looking for opportunities in 📍 Berlin, Germany || 📍Krakow, Poland as a MERN Developer.
 <br />
 <br />
 
-
-- 🔭 I’m currently working on a MERN - WhatsApp Clone
-- 🌱 I’m currently learning Firebase
+✅The last project I built:
+👨🏽‍💻The Project I'm currently working on:
+⚙️The Technology I'm currently learning: <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
 
 

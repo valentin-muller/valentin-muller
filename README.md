@@ -4,9 +4,9 @@
 <br />
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Firebase && 
-- 👯 I’m looking 
+- 🔭 I’m currently working on a MERN - WhatsApp Clone
+- 🌱 I’m currently learning Firebase
+
 
 
 **Languages and Tools:**  
@@ -25,9 +25,3 @@
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valentin-muller&show_icons=true&include_all_commits=true&theme=radical" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-muller&layout=compact&theme=radical" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valentin-muller&repo=github-readme-stats&theme=radical" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valentin-muller&repo=anuraghazra.github.io&theme=radical" />

@@ -4,11 +4,11 @@ I am currently looking for opportunities in 📍 Berlin, Germany || 📍Krakow, 
 <br />
 <br />
 
-✅The last project I built: [Tinder-Clone][Tinder-clone]  <br />
+✅ Built: [Tinder-Clone][Tinder-clone]  <br />
 
-👨🏽‍💻The Project I'm currently working on: [Zoom-clone][Zoom-clone] <br />
+👨🏽‍💻 Building: [Zoom-clone][Zoom-clone] <br />
 
-⚙️The Technology I'm currently learning: 🔥Firebase <br />
+⚙️ Learning: 🔥Firebase <br />
 
 
 
@@ -19,3 +19,5 @@ I am currently looking for opportunities in 📍 Berlin, Germany || 📍Krakow, 
   
   [Tinder-clone]: tinder-clone-c95b2.web.app/
   [Zoom-clone]: https://still-reef-70054.herokuapp.com/a853a9c2-0238-41e0-aa1b-5cc6d01de927
+  [LinkedIn]: https://www.linkedin.com/in/valentinmull/
+  

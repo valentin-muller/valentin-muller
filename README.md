@@ -1,6 +1,6 @@
-### Hi there, I'm [Valentin!](https://www.linkedin.com/in/valentinmull/) 👋
+## Hi there, I'm [Valentin!](https://www.linkedin.com/in/valentinmull/) 👋
 
-I am currently looking for opportunities in 📍 Berlin, Germany || 📍Krakow, Poland as a MERN Developer.
+### I am currently looking for opportunities in 📍 Berlin, Germany || 📍Krakow, Poland as a MERN Developer.
 <br />
 <br />
 

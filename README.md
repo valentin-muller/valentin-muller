@@ -6,7 +6,7 @@
 
 ✅ Built: [Tinder-Clone][Tinder-clone]  <br />
 
-👨🏽‍💻 Building: [Zoom-clone][Zoom-clone] <br />
+👨🏽‍💻 Building: [MEED-Chat][meed] <br />
 
 🧠 Learning: [WebScrape Anything by Aaron Jack][webscrape] <br />
 
@@ -14,6 +14,6 @@
 
 
   [Tinder-clone]: tinder-clone-c95b2.web.app/
-  [Zoom-clone]: https://still-reef-70054.herokuapp.com/a853a9c2-0238-41e0-aa1b-5cc6d01de927
+  [meed]: https://github.com/valentin-muller/meed-chat-mern
   [LinkedIn]: https://www.linkedin.com/in/valentinmull/
   [webscrape]: https://javascriptwebscraping.com/

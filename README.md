@@ -1,6 +1,6 @@
 ## Hi there, I'm [Valentin!](https://www.linkedin.com/in/valentinmull/) 👋
 
-### I am currently looking for opportunities in 📍 Berlin, Germany || 📍Kraków, Poland as a MERN Developer.
+### I am currently looking for opportunities in 📍Dresden, Germany || 📍 Berlin, Germany || 📍Kraków, Poland as a MERN Developer.
 <br />
 <br />
 
@@ -13,7 +13,7 @@
 
 
 
-  [Tinder-clone]: tinder-clone-c95b2.web.app/
+  [Tinder-clone]: https://tinder-clone-c95b2.web.app/
   [meed]: https://github.com/valentin-muller/meed-chat-mern
   [LinkedIn]: https://www.linkedin.com/in/valentinmull/
   [webscrape]: https://javascriptwebscraping.com/

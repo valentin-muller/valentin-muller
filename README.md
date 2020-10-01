@@ -6,7 +6,7 @@
 
 ✅ Built: [Tinder-Clone][Tinder-clone]  <br />
 
-👨🏽‍💻 Building: [MEED-Chat][meed] <br />
+👨🏽‍💻 Building: [eCommerce - Server][eCom] <br />
 
 🧠 Learning: [WebScrape Anything by Aaron Jack][webscrape] <br />
 
@@ -17,3 +17,4 @@
   [meed]: https://github.com/valentin-muller/meed-chat-mern
   [LinkedIn]: https://www.linkedin.com/in/valentinmull/
   [webscrape]: https://javascriptwebscraping.com/
+  [eCom]: https://github.com/valentin-muller/ecom-server
